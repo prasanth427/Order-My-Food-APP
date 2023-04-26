@@ -16,5 +16,10 @@ This service will take care of placing order, updating order, cancelling order, 
 
 The payment should be realized before the order is created. The order creation involves saving of order details, update of payment details, update of stock of items and notifications to the delivery team.
 
+MicroServices Architecture 
+
+SKILLS USED : Core Java, Spring Boot,Spring Data JPA,Spring Cloud
+TOOLS  USED : Eclispe IDE, PostMan, Maven 
+
 
 
